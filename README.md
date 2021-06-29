@@ -1,3 +1,3 @@
 # Morse code with python
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/International_Morse_Code.svg/600px-International_Morse_Code.svg.png)
+![](https://ep01.epimg.net/elpais/imagenes/2019/05/31/ciencia/1559295408_345558_1559295781_noticia_normal.jpg)
